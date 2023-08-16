@@ -52,7 +52,7 @@ class _HomeViewState extends ConsumerState<_HomeView> {
       MoviesSlideshow(movies: slideShowMovies),
 
       MovieHorizontalListview(
-        movie: nowPlayingMovies,
+        movies: nowPlayingMovies,
         title: 'En cines',
         subTitle: 'Lunes 20',
       )
