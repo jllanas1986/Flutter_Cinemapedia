@@ -8,3 +8,4 @@ A new Flutter project for wacth movies.
 ```
 flutter pub run build_runner build
 ```
+![home_video](./assets/home_video.mp4)
