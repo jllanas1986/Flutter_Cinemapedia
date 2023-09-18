@@ -8,5 +8,6 @@ A new Flutter project for wacth movies.
 ```
 flutter pub run build_runner build
 ```
-![home](https://github.com/jllanas1986/cinemapedia/assets/122029674/c1cf9e5d-d884-43b9-afd8-88c96981ae0ede.gif)
+
+https://github.com/jllanas1986/Flutter_Cinemapedia/assets/122029674/79e483f8-c9cc-4104-b304-e59c6e747da4
 
