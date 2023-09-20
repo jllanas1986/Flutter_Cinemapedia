@@ -24,6 +24,11 @@ Resumidamente, tenemos tres capas de implementación. En la capa de **Dominio**,
 
 ## Funcionalidad 🔩
 
+[home](https://github.com/jllanas1986/Flutter_Cinemapedia/assets/122029674/f145f246-1cca-4661-95c1-e1d8c9595e92)
+
+[buscador](https://github.com/jllanas1986/Flutter_Cinemapedia/assets/122029674/a41b816b-9e30-4052-b521-e5d12882ea67)
+
+[favoritos](https://github.com/jllanas1986/Flutter_Cinemapedia/assets/122029674/281d5783-8960-495a-b5a0-b730a878016e)
 
 
 ## Instrucciones para ejecución 📋
@@ -35,3 +40,6 @@ Resumidamente, tenemos tres capas de implementación. En la capa de **Dominio**,
 flutter pub run build_runner build
 ```
 
+## Autor ✒️
+
+- **Jose Llanas** - [jllanas1986](https://github.com/jllanas1986)
